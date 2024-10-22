@@ -1,0 +1,160 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.master{
+	width:100%;
+	font-family: "Verdana";
+
+}
+.secao_1{
+	background-color: #b0ddfc;
+	margin:0 auto;
+	text-align: center;
+	padding: 20px;
+	
+}
+.secao_1 img{
+	height: 200;
+	width: 100px;
+}
+
+.secao_1 a{
+	padding: 0 10px;
+
+}
+
+.secao_2{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.secao_3 h1{
+	font-size: 29px;
+	text-align: center;
+	padding-top: 40px;
+	margin-bottom: 10px;
+
+}
+.secao_3 h2{
+	font-size: 21px;
+	color: #3287cb;
+	text-align: center;
+	font-weight: normal;
+	margin-top: 0;
+}
+
+.secao_3 img{
+	width: 425px;
+	height: 300px;
+	display: block;
+	margin: 0 auto;
+	
+}
+.secao_3 p, .secao_5 p{
+	font-size: 14px;
+	text-align: left;
+	padding: 0 200px 20px 200px;
+
+	
+}
+.secao_3 span, .secao_5 span{
+	color:#3287cb;
+	line-height: 25px;
+	font-weight: bold;
+}
+
+.secao_4{	
+	background-color:#1d80c1 ;
+	padding: 50px;
+	color: white;	
+	margin: 0 auto;
+	
+}
+.secao_4 h3{
+	font-size: 23px;
+	text-align: center;
+	padding: 10px;
+
+}
+.secao_4 p{
+	font-size: 18px;
+	text-align: center;
+	padding: 0 300px;
+	line-height: 30px;
+
+}
+.secao_4 span, .secao_6 span{
+	color: yellow;
+}
+
+.secao_4 ul {
+    margin: 10px auto; /* Margem automática para centralizar horizontalmente */
+    display: block;
+    width: fit-content; /* Adapta a largura ao conteúdo da lista */
+}
+.secao_4 li{
+	line-height: 35px;
+	text-align: left;
+	font-size: 18px;
+}
+
+
+.secao_5 h3{
+	font-size: 23px;
+	color: #1d80c1;
+	text-align: center;
+	padding-top: 20px;
+
+
+}
+.secao_5 img{
+	width: 425px;
+	height: 300px;
+	display: block;
+	margin: 0 auto;
+	
+
+}
+
+.secao_6{
+	background-color:#1d80c1 ;
+	padding: 25px;
+}
+
+.secao_6 h3{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+.secao_6 iframe{
+	width: 600px;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.secao_6 p{
+	font-size: 10px;
+	width: 650px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	margin: 23px auto;
+
+}
+
+.secao_6 ul{
+	margin: 0 auto;
+	text-align: center;
+	line-height: 30px;
+}
+.secao_6 li > a{
+	background-color: white;
+	padding: 2px 10px;
+	border-radius: 5px;
+}
